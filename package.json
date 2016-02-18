@@ -1,0 +1,19 @@
+{
+  "name": "fnck",
+  "version": "0.0.1",
+  "description": "Squatting",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calekennedy/fnck.js.git"
+  },
+  "author": "Cale Kennedy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calekennedy/fnck.js/issues"
+  },
+  "homepage": "https://github.com/calekennedy/fnck.js#readme"
+}
